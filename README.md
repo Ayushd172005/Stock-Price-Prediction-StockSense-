@@ -66,7 +66,8 @@ StockSense/
 └── README.md
 
 🚀 How to Run the Project
-git clone https://github.com/your-username/StockSense.git
+git clone https://github.com/Ayushd172005
+/StockSense.git
 cd StockSense
 pip install -r requirements.txt
 streamlit run app.py
