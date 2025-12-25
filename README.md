@@ -18,38 +18,6 @@
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Dashboard Home
-![Dashboard Home](https://via.placeholder.com/1200x600/667eea/ffffff?text=StockSense+Dashboard+Home)
-*Beautiful, intuitive interface with key metrics and navigation*
-
-### 📊 Data Analysis & Visualization
-![Data Analysis](https://via.placeholder.com/1200x600/764ba2/ffffff?text=Interactive+Charts+%26+Technical+Indicators)
-*Real-time stock data with interactive candlestick charts, MACD, RSI, and volume analysis*
-
-### 🤖 Model Training
-![Model Training](https://via.placeholder.com/1200x600/f093fb/ffffff?text=Model+Training+Progress)
-*Live training with real-time metrics, accuracy curves, and loss visualization*
-
-### 🔮 Predictions
-![Predictions](https://via.placeholder.com/1200x600/4facfe/ffffff?text=Stock+Price+Predictions)
-*Next-day movement predictions with confidence scores and probability distribution*
-
----
-
-## 🎬 Demo
-
-### Live Prediction Demo
-![Prediction Demo](https://via.placeholder.com/800x400/00d2ff/000000?text=Live+Prediction+Demo+GIF)
-*Watch StockSense predict stock movements in real-time*
-
-### Training Process
-![Training Demo](https://via.placeholder.com/800x400/a8ff78/000000?text=Model+Training+GIF)
-*See the model training process with live accuracy updates*
-
----
-
 ## 🚀 Features
 
 <table>
