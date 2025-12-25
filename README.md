@@ -545,7 +545,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Your Name
+Copyright (c) 2024 Ayushd172005
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -586,12 +586,11 @@ in the Software without restriction...
 
 <div align="center">
 
-### 👤 Author: **Your Name**
+### 👤 Author: **Ayushd172005**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-dudhat-a60184282/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushd172005)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushd172005@gmail.com)
 
 ### 📬 Get in Touch
 
@@ -609,15 +608,9 @@ in the Software without restriction...
 
 If you find this project useful, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/stocksense&type=Date)](https://star-history.com/#yourusername/stocksense&Date)
-
----
 
 <div align="center">
 
-### 🚀 Ready to Predict Stock Movements?
-
-**[Get Started Now](#-installation)** | **[View Demo](#-demo)** | **[Read Docs](#-documentation)**
 
 Made with ❤️ and Python | © 2024 StockSense
 
